@@ -29,7 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx606j/proprietary/vendor/etc/init/android.hardware.keymaster@3.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.keymaster@3.0-service-qti.rc \
     vendor/nubia/nx606j/proprietary/vendor/etc/init/ultrasonicd.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/ultrasonicd.rc \
     vendor/nubia/nx606j/proprietary/vendor/etc/qdcm_calib_data_s6d1ha2a01_cmd_mode_dsi_jdi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_s6d1ha2a01_cmd_mode_dsi_jdi_panel.xml \
-    vendor/nubia/nx606j/proprietary/vendor/etc/sec_s3nrn81_rfreg.bin:$(TARGET_COPY_OUT_VENDOR)/etc/sec_s3nrn81_rfreg.bin \
     vendor/nubia/nx606j/proprietary/vendor/etc/sensors/config/ak991x_dri_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/ak991x_dri_0.json \
     vendor/nubia/nx606j/proprietary/vendor/etc/sensors/config/bmi160_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/bmi160_0.json \
     vendor/nubia/nx606j/proprietary/vendor/etc/sensors/config/config_list.txt:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/config_list.txt \
@@ -68,6 +67,7 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx606j/proprietary/vendor/firmware/leia_pfp_470.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/leia_pfp_470.fw \
     vendor/nubia/nx606j/proprietary/vendor/firmware/leia_pm4_470.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/leia_pm4_470.fw \
     vendor/nubia/nx606j/proprietary/vendor/firmware/sec_s3nrn81_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sec_s3nrn81_firmware.bin \
+    vendor/nubia/nx606j/proprietary/vendor/firmware/sec_s3nrn81_rfreg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sec_s3nrn81_rfreg.bin \
     vendor/nubia/nx606j/proprietary/vendor/lib/camera/com.qti.sensor.imx000.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx000.so \
     vendor/nubia/nx606j/proprietary/vendor/lib/camera/com.qti.sensor.imx318.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx318.so \
     vendor/nubia/nx606j/proprietary/vendor/lib/camera/com.qti.sensor.imx362.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx362.so \
